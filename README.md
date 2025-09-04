@@ -1,5 +1,5 @@
 # Computer System Study (CS:APP)
-This Repository is for studying **"Computer System (CS:APP)"** and includes summaries, notes and practice code for each chapter.
+This Repository is for studying **"Computer System (CS:APP)"** and includes summaries, notes and practice code for each chapter.<br>
 <img src="https://m.media-amazon.com/images/I/81CV7c56AlL._UF1000,1000_QL80_.jpg" width="300">
 
 Over this study, follow this paths:
