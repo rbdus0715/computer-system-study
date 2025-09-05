@@ -11,7 +11,7 @@ Over this study, follow this paths:
 ## Theory
 Each member is responsible for presenting their assigned part, but everyone is required to study all parts.
 - [Yongseung Kim](https://github.com/yongyong213)
-- Sangwoo Byeon
+- [Sangwoo Byeon](https://github.com/wupe1001)
 - [Gyuyeon Jo](https://github.com/rbdus0715)
 
 **Index**
